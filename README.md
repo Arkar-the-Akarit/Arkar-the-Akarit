@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Arkar-the-Akarit
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: they / them
+- ⚡ Fun fact: life is too short, so love yourself & others.
 
 <!---
 Arkar-the-Akarit/Arkar-the-Akarit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
